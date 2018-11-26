@@ -6,12 +6,14 @@ header {
 body {
   text-align: center;
   font-family: helvetica;
-  color: white;
+  color: red;
 }
 h1 {
+color: white;
   padding-top: 60px;
 }
 h3 {
+color: white;
   padding-top: 20px;
   padding-bottom: 60px;
 }
@@ -37,7 +39,7 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #111;
+    background-color: red;
 }
 .active {
     background-color: #4CAF50;
