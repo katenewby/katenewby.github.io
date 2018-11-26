@@ -5,7 +5,7 @@ header {
 }
 body {
   text-align: center;
-  font-family: 'Londrina Shadow', cursive;
+  font-family: helvetica;
 }
 h1 {
   padding-top: 60px;
@@ -21,6 +21,7 @@ ul {
     overflow: hidden;
     background-color: #333;
 }
+<<<<<<< HEAD
 
 li {
     float: left;
@@ -32,6 +33,11 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+=======
+li a {
+    display: block;
+    width: 60px;
+>>>>>>> 95cb20d5fc0ef933c89536b3b7b7651ff87fbab4
 }
 
 /* Change the link color to #111 (black) on hover */
