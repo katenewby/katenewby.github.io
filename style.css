@@ -19,7 +19,6 @@ ul {
     margin: 0;
     padding: 0;
 }
-li a {
-    display: block;
-    width: 60px;
+li {
+    display: inline;
 }
