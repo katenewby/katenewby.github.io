@@ -2,10 +2,12 @@
 header {
   background-image: url("pic1.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 body {
   text-align: center;
   font-family: helvetica;
+  color: white;
 }
 h1 {
   padding-top: 60px;
