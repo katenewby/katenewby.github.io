@@ -1,8 +1,7 @@
 
 header {
-  background-image: url("picture.jpg");
+  background-image: url("pic.png");
   background-size: cover;
-  background-repeat: no-repeat;
 }
 body {
   text-align: center;
