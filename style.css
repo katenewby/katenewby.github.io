@@ -5,7 +5,7 @@ header {
 }
 body {
   text-align: center;
-  font-family: 'Londrina Shadow', cursive;
+  font-family: helvetica;
 }
 h1 {
   padding-top: 60px;
@@ -19,6 +19,7 @@ ul {
     margin: 0;
     padding: 0;
 }
-li {
-    display: inline;
+li a {
+    display: block;
+    width: 60px;
 }
