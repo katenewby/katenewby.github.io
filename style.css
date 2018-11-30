@@ -1,20 +1,25 @@
 
 header {
-  background-image: url("pic.png");
+  background-image: url("bridge.jpg");
   background-size: cover;
+  background-position: center;
+  padding-top: 100px;
 }
 body {
   text-align: center;
-  font-family: helvetica;
   color: red;
+  font-family: 'Cabin Sketch', cursive; regular;
+
 }
 h1 {
-color: white;
-  padding-top: 60px;
+color: red;
+  padding-top: 20px;
+  font-size: 50px;
 }
 h3 {
-color: white;
-  padding-top: 20px;
+color: red;
+font-size: 30px;
+  padding-top: 10px;
   padding-bottom: 60px;
 }
 ul {
@@ -50,5 +55,5 @@ ul {
     width: 100%;
 }
 .w3-container {
-  background-color: black;
+  background-color: #D3D3D3
 }
