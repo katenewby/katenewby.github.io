@@ -56,4 +56,5 @@ h4 {color: black;}
 a{color: red;
 }
 blockquote{border-width: thick;
+  border-style: solid;
   border-color:#ADD8E6;}
