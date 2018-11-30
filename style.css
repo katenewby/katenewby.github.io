@@ -58,4 +58,5 @@ a{color: red;
 blockquote{border-width: thick;
   border-style: solid;
   border-spacing: 10pt;
-  border-color:#ADD8E6;}
+  border-color:#ADD8E6;
+column-count: 3;}
