@@ -55,4 +55,5 @@ ul {
 h4 {color: black;}
 a{color: red;
 }
-blockquote{border-color:#ADD8E6;}
+blockquote{border-width: thick;
+  border-color:#ADD8E6;}
