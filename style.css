@@ -5,14 +5,19 @@ header {
   background-position: center;
   padding-top: 100px;
 }
+.w3-container {
+  margin: auto;
+}
+.navbar navbar-inverse{
+  align-items: left;
+}
 body {
   text-align: center;
   color: black;
   font-family: 'Cabin Sketch', cursive; regular;
-
 }
 h1 {
-color: black;
+  color: black;
   padding-top: 20px;
   font-size: 50px;
 }
@@ -67,5 +72,11 @@ blockquote{
   border-color:#ADD8E6;
   text-align: center;
   margin: auto;
+}
 
+.col-sm-4 {
+  border-width: medium;
+  border-style: solid;
+  border-color: #ADD8E6;
+  border-spacing: 20px;
 }
