@@ -7,17 +7,17 @@ header {
 }
 body {
   text-align: center;
-  color: red;
+  color: black;
   font-family: 'Cabin Sketch', cursive; regular;
 
 }
 h1 {
-color: red;
+color: black;
   padding-top: 20px;
   font-size: 50px;
 }
 .head {
-color: red;
+color: black;
 font-size: 30px;
   padding-top: 10px;
   padding-bottom: 60px;
@@ -60,7 +60,12 @@ ul {
 h4 {color: black;}
 a{color: red;
 }
-blockquote{border-width: thick;
+blockquote{
+  border-width: thick;
   border-style: solid;
   border-spacing: inherit;
-  border-color:#ADD8E6;}
+  border-color:#ADD8E6;
+  text-align: center;
+  margin: auto;
+
+}
