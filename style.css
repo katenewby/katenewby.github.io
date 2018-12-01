@@ -17,7 +17,7 @@ body {
   font-family: 'Cabin Sketch', cursive; regular;
 }
 h1 {
-  color: black;
+  color: black !important;
   padding-top: 20px;
   font-size: 50px;
 }
@@ -62,8 +62,11 @@ ul {
 .w3-container {
   background-color: #D3D3D3;
 }
-h4 {color: black;}
-a{color: red;
+h4 {
+  color: black;
+}
+a {
+  color: red;
 }
 blockquote{
   border-width: thick;
@@ -74,9 +77,15 @@ blockquote{
   margin: auto;
 }
 
-.col-sm-4 {
+.col-md-4 {
   border-width: medium;
   border-style: solid;
   border-color: #ADD8E6;
   border-spacing: 20px;
+}
+h3 {
+  color: black !important;
+}
+h2 {
+  color: black !important;
 }
