@@ -16,7 +16,7 @@ color: red;
   padding-top: 20px;
   font-size: 50px;
 }
-h3 {
+.head {
 color: red;
 font-size: 30px;
   padding-top: 10px;
@@ -55,11 +55,7 @@ ul {
     width: 100%;
 }
 .w3-container {
-<<<<<<< HEAD
-  background-color: #D3D3D3
-=======
-  background-color: white;
->>>>>>> 94deab3183a2c3936aa1a83a76f6e7321e5a083c
+  background-color: #D3D3D3;
 }
 h4 {color: black;}
 a{color: red;
