@@ -1,20 +1,30 @@
 
 header {
-  background-image: url("pic.png");
+  background-image: url("bridge.jpg");
   background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+}
+.w3-container {
+  margin: auto;
+}
+.navbar navbar-inverse{
+  align-items: left;
 }
 body {
   text-align: center;
-  font-family: helvetica;
-  color: red;
+  color: black;
+  font-family: 'Cabin Sketch', cursive; regular;
 }
 h1 {
-color: white;
-  padding-top: 60px;
-}
-h3 {
-color: white;
+  color: black !important;
   padding-top: 20px;
+  font-size: 50px;
+}
+.head {
+color: black;
+font-size: 30px;
+  padding-top: 10px;
   padding-bottom: 60px;
 }
 ul {
@@ -50,8 +60,35 @@ ul {
     width: 100%;
 }
 .w3-container {
-  background-color: white;
+  background-color: #D3D3D3;
 }
-h4 {color: black;}
-a{color: red;
+h4 {
+  color: black;
 }
+a {
+  color: red;
+}
+<<<<<<< HEAD
+=======
+blockquote{
+  border-width: thick;
+  border-style: solid;
+  border-spacing: inherit;
+  border-color:#ADD8E6;
+  text-align: center;
+  margin: auto;
+}
+
+.col-md-4 {
+  border-width: medium;
+  border-style: solid;
+  border-color: #ADD8E6;
+  border-spacing: 20px;
+}
+h3 {
+  color: black !important;
+}
+h2 {
+  color: black !important;
+}
+>>>>>>> 6874f7aa36521489bc6f611c2da78b44e2430301
